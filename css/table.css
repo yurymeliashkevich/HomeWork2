@@ -1,0 +1,35 @@
+.table_style {
+    border-collapse: collapse; /*убираем пустые промежутки между ячейками*/
+    border: 1px solid black; /*устанавливаем для таблицы внешнюю границу чёрного цвета толщиной 1px*/
+    width: 99%;
+}
+.header {
+    text-align: center;
+}
+.subtitel {
+    text-align: center;
+    font-weight: bold;
+    border: 1px solid black;
+}
+.middle
+{
+    text-align: center;
+    border: 1px solid black;
+}
+.defector
+{
+    color: #FFFFFF;
+    text-align: center;
+    background-color: #228B22;
+    border: 1px solid black;
+}
+.footer {
+    color: #0000CD;
+    text-align: center;
+outline-style: double;
+outline-color: black;
+outline-width: 5px
+}
+.borders {
+    border: 1px solid black;
+}
